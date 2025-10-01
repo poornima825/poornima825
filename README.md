@@ -1,13 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Poornima!%20👋&fontSize=42&fontAlignY=32&desc=Computing%20%26%20Information%20Systems%20Student&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6CE5F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Student+Developer+📚;Public+Speaker+🎤;AI+and+Backend+Enthusiast+🤖;Tech+Explorer+💻;Building+for+Society+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6CE5F7&center=true&vCenter=true&width=600&lines=Student+Developer;Public+Speaker;AI+and+Backend+Enthusiast;Tech+Explorer;Building+for+Society" alt="Typing SVG" />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
@@ -151,9 +148,9 @@ When I'm not coding, you'll find me traveling to new places, seeking adventures,
   
   ### 💭 *"The best way to predict the future is to create it."* - Peter Drucker
   
-  ![Snake animation](https://raw.githubusercontent.com/poornima825/poornima825/output/github-contribution-grid-snake-dark.svg)
+
   
   **Thanks for visiting! Feel free to connect and collaborate! 🚀**
   
-  ⭐️ From [Poornima Prasadini](https://github.com/poornima825)
+
 </div>
