@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-Hey there! I'm **Poornima Prasadini**, a passionate Computing & Information Systems student based in **Negombo, Sri Lanka** 🇱🇰
+Hey there! I'm **Poornima Prasadini**, a passionate Computing & Information Systems student.
 
 🎓 **Student Developer** | 🎤 **Public Speaker** | 🤖 **AI & Backend Enthusiast**
 
@@ -87,12 +87,12 @@ graph LR
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5F7&icon_color=6CE5F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poornima825&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6CE5F7&icon_color=6CE5F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornima825&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5F7&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5F7&ring=6CE5F7&fire=FF6B6B&currStreakLabel=6CE5F7" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poornima825&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5F7&ring=6CE5F7&fire=FF6B6B&currStreakLabel=6CE5F7" alt="GitHub Streak Stats" />
 </div>
 
 <br>
@@ -130,7 +130,7 @@ graph LR
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6CE5F7&line=6CE5F7&point=FF6B6B" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornima825&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6CE5F7&line=6CE5F7&point=FF6B6B" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -139,9 +139,9 @@ graph LR
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile#:~:text=www.linkedin.com,Vanity%20URL%20name)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornimaprasadini727@gmail.com)
 
 </div>
 
@@ -180,9 +180,9 @@ graph LR
   
   ### 💭 *"The best way to predict the future is to create it."* - Peter Drucker
   
-  ![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/poornima825/poornima825/output/github-contribution-grid-snake-dark.svg)
   
   **Thanks for visiting! Feel free to connect and collaborate! 🚀**
   
-  ⭐️ From [Poornima Prasadini](https://github.com/YOUR_GITHUB_USERNAME)
+  ⭐️ From [Poornima Prasadini](https://github.com/poornima825)
 </div>
