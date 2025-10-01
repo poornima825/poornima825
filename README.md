@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Poornima!%20👋&fontSize=42&fontAlignY=32&desc=Computing%20%26%20Information%20Systems%20Student&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6CE5F7&center=true&vCenter=true&width=600&lines=Student+Developer;Public+Speaker;AI+and+Backend+Enthusiast;Tech+Explorer;Building+for+Society" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=200&section=header&text=&fontSize=0&desc=&descSize=0" width="100%"/>
+  <div style="margin-top: -150px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Student+Developer;Public+Speaker;AI+and+Backend+Enthusiast;Tech+Explorer;Building+for+Society" alt="Typing SVG" />
+  </div>
 </div>
 <br>
 <div align="center">
