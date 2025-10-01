@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-Hey there! I'm **Poornima Prasadini**, a passionate Computing & Information Systems student based in **Negombo, Sri Lanka** 🇱🇰
+Hey there! I'm **Poornima Prasadini**, a passionate Computing & Information Systems student.
 
 🎓 **Student Developer** | 🎤 **Public Speaker** | 🤖 **AI & Backend Enthusiast**
 
@@ -154,9 +154,9 @@ When I'm not coding, you'll find me traveling to new places, seeking adventures,
   
   ### 💭 *"The best way to predict the future is to create it."* - Peter Drucker
   
-  ![Snake animation](https://raw.githubusercontent.com/poornima825/poornima825/output/github-contribution-grid-snake-dark.svg)
+
   
   **Thanks for visiting! Feel free to connect and collaborate! 🚀**
   
-  ⭐️ From [Poornima Prasadini](https://github.com/poornima825)
+
 </div>
