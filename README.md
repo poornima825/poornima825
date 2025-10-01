@@ -130,15 +130,6 @@ When I'm not coding, you'll find me traveling to new places, seeking adventures,
 
 </div>
 
-<br>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br>
 
 ## 📈 Profile Views
 
