@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6CE5F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Student+Developer+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%92%BB;Future+Problem+Solver+%F0%9F%9A%80;Building+for+Society+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6CE5F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Student+Developer+%F0%9F%93%9A;Public+Speaker+%F0%9F%8E%A4;AI+%26+Backend+Enthusiast+%F0%9F%A4%96;Tech+Explorer+%F0%9F%92%BB;Building+for+Society+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 <br>
@@ -14,22 +14,15 @@
 
 ## 🎯 About Me
 
-```python
-class Student:
-    def __init__(self):
-        self.name = "Poornima Prasadini"
-        self.role = "Computing & Information Systems Student"
-        self.location = "Negombo, Sri Lanka"
-        self.learning = ["Python", "Web Development", "Tech Trends"]
-        self.interests = ["Building Social Impact Projects", "Continuous Learning"]
-        self.fun_fact = "I believe every line of code can make a difference! 🌟"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
+Hey there! I'm **Poornima Prasadini**, a passionate Computing & Information Systems student based in **Negombo, Sri Lanka** 🇱🇰
 
-me = Student()
-me.say_hi()
-```
+🎓 **Student Developer** | 🎤 **Public Speaker** | 🤖 **AI & Backend Enthusiast**
+
+I'm on an exciting journey of learning and building! Currently diving deep into **Artificial Intelligence** and **Backend Development**. I love creating projects that can make a positive impact on society while constantly exploring new technologies.
+
+When I'm not coding, you'll find me traveling to new places, seeking adventures, and sharing knowledge as a public speaker. I believe in learning by doing and growing step by step!
+
+✨ **Always open to collaboration and new opportunities!**
 
 <br>
 
@@ -37,16 +30,20 @@ me.say_hi()
 
 <div align="center">
 
+I'm currently focusing on **AI and Backend Development**, expanding my skills to build intelligent and scalable applications!
+
 ```mermaid
 graph LR
-    A[My Learning Journey] --> B[Frontend Development]
-    A --> C[Backend Development]
-    A --> D[Database Management]
-    B --> E[JavaScript]
-    B --> F[React]
-    B --> G[CSS]
-    C --> H[Python]
-    D --> I[MySQL]
+    A[My Focus Areas] --> B[🤖 AI & Machine Learning]
+    A --> C[⚙️ Backend Development]
+    A --> D[🎨 UI/UX Design]
+    B --> E[Python for AI]
+    B --> F[ML Algorithms]
+    C --> G[Python Backend]
+    C --> H[MongoDB]
+    C --> I[MySQL]
+    D --> J[Figma]
+    D --> K[Wireframing]
     
     style A fill:#6CE5F7,stroke:#333,stroke-width:3px,color:#000
     style B fill:#FF6B6B,stroke:#333,stroke-width:2px
@@ -68,11 +65,15 @@ graph LR
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -151,11 +152,13 @@ graph LR
 <div align="center">
 
 ```
-🌟 I believe technology can change lives
-💪 Learning something new every day
-🎯 Passionate about creating meaningful projects
-🌍 From beautiful Sri Lanka
-☕ Fueled by curiosity and determination
+✈️ I LOVE traveling and exploring new adventures
+🏔️ Always up for adventurous activities
+💻 But most of the time, you'll find me coding!
+🎤 Enjoy sharing knowledge as a public speaker
+🎨 Design wireframes and UI/UX for fun
+🌍 Passionate about using tech to help society
+🚀 Believe in continuous learning and growth
 ```
 
 </div>
